@@ -1,0 +1,28 @@
+name: things i like
+favicon: null
+layout_spectrum: 0.6951931600924581
+typography_spectrum: 0.3952068714424968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6948088265489787
+  lightness: 0.23916513053700328
+  saturation: 0.08370458404533565
+  rhythmicContrast: 0.07688735891133547
+purpose: []
